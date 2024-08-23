@@ -7,3 +7,6 @@ Design Choices 1,2&10
 Project: SDF05
 
 Im proud of the element (Box-shadow) because it is just 1 element but it make the appearance lot alot better 
+
+
+Explanation Video: https://www.loom.com/share/cf0e1738a9404dd593767c80a206f638?sid=f2274d04-8745-46ce-bb15-7d368c895aa7

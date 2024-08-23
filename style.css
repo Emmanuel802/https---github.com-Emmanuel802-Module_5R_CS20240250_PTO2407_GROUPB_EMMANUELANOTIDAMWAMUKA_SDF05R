@@ -142,12 +142,15 @@ p {
     color: #fff;
     border: none;
     background: transparent;
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+            -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+    transform: translate(2px, 2px);
   }
   .btn-3:hover:after {
     background: rgb(0, 162, 255);
     background: linear-gradient(0deg, rgb(0, 162, 255) 0%, rgb(0, 107, 139) 100%);
-    -webkit-transform: scale(1);
-    transform: scale(1);
     box-shadow: 3px 3px 3px 3px rgb(0, 54, 99), 6px 6px 0 0 rgb(0, 54, 99);
     transform: translate(-2px, -2px);
   }
